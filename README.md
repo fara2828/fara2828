@@ -1,11 +1,14 @@
-# 🤗 Welcome to my repository! 😝
+# 🤗 Welcome to my repository! 😝  
 
-안녕하세요!
-궁금한 것이 많고,
-배움이 즐거운
-신입 백앤드 개발자 이상민입니다. 
 
-# ⚙️ Tech Stack
+안녕하세요!  
+ 궁금한 것이 많고🤔,  
+ 배움이 즐거운❕  
+신입 백앤드 개발자 이상민입니다.     
+
+
+
+# ⚙️ Tech stack
 - Back-end:
   <div>
      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -27,11 +30,9 @@
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
    <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">  
-  </div>
+  </div>    
 
---
-
-# 🌱currently learning : 
+# 🌱Currently learning : 
  - <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
