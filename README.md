@@ -1,7 +1,7 @@
 # 🤗 Welcome to my repository! 😝  
 
 
-안녕하세요!  
+🌟 안녕하세요!  
  궁금한 것이 많고🤔,  
  배움이 즐거운❕  
 신입 백앤드 개발자 이상민입니다.     
@@ -32,12 +32,18 @@
    <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">  
   </div>    
 
-# 🌱Currently learning : 
+# 🌱Currently learning  
  - <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
    </div>
  - Algorithm
  - Basic CS Knowledge
+
+# 🎈 Visit my blog  
+get to know about what I've learned! & how I study ➡️
+https://mundol-colynn.tistory.com/  
+
+
 
  
